@@ -1,0 +1,1 @@
+This repository comtains reports about homeworks that have been made by me during "Java Elementary" training course
